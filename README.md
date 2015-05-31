@@ -1,4 +1,4 @@
-# FileTransfer
+# Target
 This project aims  to provide a File Transfer library for both java and Android.
 
 # Support features
