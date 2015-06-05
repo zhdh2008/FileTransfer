@@ -2,13 +2,13 @@
 This project aims  to provide a File Transfer library for both java and Android.
 
 # Supported features
-Http file upload.
+  File download 
+  
+  File upload
+# Supported protocols
+  Http
 
-Http file download.
-
-Ftp file upload.
-
-Ftp file download.
+  FTP
 
 # Note
 All the features shows above are under developing ~ ~ ~
